@@ -7,7 +7,7 @@
                                                      A B H I S H E K  M
                            App Developer | Cyber security Enthusiast | Explorer | Game developer | Blender
 
-[![LinkedIn](https://www.linkedin.com/in/abhishek-mukunda-6b0393208/)
+[![LinkedIn]([https://www.linkedin.com/in/abhishek-mukunda-6b0393208/](https://www.linkedin.com/in/abhishek-mukunda-6b0393208/))
 [![GitHub: Abhishek Mukunda](https://github.com/Adore9303)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
