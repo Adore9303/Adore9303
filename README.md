@@ -8,7 +8,7 @@
                            App Developer | Cyber security Enthusiast | Explorer | Game developer | Blender
 
 [![LinkedIn](https://www.linkedin.com/in/abhishek-mukunda-6b0393208/)
-[![GitHub: Abhishek Mukunda]([https://img.shields.io/github/followers/Abhishekvk04?label=follow&style=social)](https://github.com/Abhishekvk04](https://github.com/Adore9303))
+[![GitHub: Abhishek Mukunda](https://github.com/Adore9303)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
