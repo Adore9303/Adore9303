@@ -1,14 +1,13 @@
 <p align="center">
+  <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Abhishek M!!</h1>
   <img src="https://media.licdn.com/dms/image/D5616AQHdiwASM5Hz3Q/profile-displaybackgroundimage-shrink_350_1400/0/1693666740739?e=1711584000&v=beta&t=R4VaU24x1DNnPOnNlSUv_K4T9_C_yhXXXvVROBxGbjE" />
 </p>
-
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Abhishek M!!</h1>
 
                                                      A B H I S H E K  M
                            App Developer | Cyber security Enthusiast | Explorer | Game developer | Blender
 
-[![LinkedIn]([https://www.linkedin.com/in/abhishek-mukunda-6b0393208/](https://www.linkedin.com/in/abhishek-mukunda-6b0393208/))
-[![GitHub: Abhishek Mukunda](https://github.com/Adore9303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mukunda-6b0393208/)
+[![GitHub: Adore9303](https://img.shields.io/github/followers/Adore9303?label=follow&style=social)](https://github.com/Adore9303)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
